@@ -1,0 +1,6 @@
+INSERT INTO [dbo].[Claim] ([CLID], [Date_Received_From_Student], [Claim_Status], [Date_Last_Action], [Finance_Record], [Comments]) VALUES (1, N'2020-12-12', 0, N'2020-12-14', NULL, NULL)
+INSERT INTO [dbo].[Claim] ([CLID], [Date_Received_From_Student], [Claim_Status], [Date_Last_Action], [Finance_Record], [Comments]) VALUES (2, NULL, 1, N'2021-03-01', NULL, NULL)
+INSERT INTO [dbo].[Claim] ([CLID], [Date_Received_From_Student], [Claim_Status], [Date_Last_Action], [Finance_Record], [Comments]) VALUES (5, NULL, 2, N'2020-12-12', NULL, NULL)
+INSERT INTO [dbo].[Claim] ([CLID], [Date_Received_From_Student], [Claim_Status], [Date_Last_Action], [Finance_Record], [Comments]) VALUES (8, NULL, 3, N'2020-12-13', NULL, NULL)
+INSERT INTO [dbo].[Claim] ([CLID], [Date_Received_From_Student], [Claim_Status], [Date_Last_Action], [Finance_Record], [Comments]) VALUES (9, NULL, 4, N'2021-03-10', NULL, NULL)
+INSERT INTO [dbo].[Claim] ([CLID], [Date_Received_From_Student], [Claim_Status], [Date_Last_Action], [Finance_Record], [Comments]) VALUES (10, NULL, 5, N'2021-04-13', NULL, NULL)

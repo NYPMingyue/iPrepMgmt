@@ -1,0 +1,6 @@
+INSERT INTO [dbo].[Claim_Status_Codes] ([Status_ID], [Desc], [Long_Desc]) VALUES (0, N'REJECTED', N'Your claim is rejected. Please resubmit.')
+INSERT INTO [dbo].[Claim_Status_Codes] ([Status_ID], [Desc], [Long_Desc]) VALUES (1, N'APPROVED', N'Your claim is approved by IMDA. NYP have received your reimbursement from IMDA.')
+INSERT INTO [dbo].[Claim_Status_Codes] ([Status_ID], [Desc], [Long_Desc]) VALUES (2, N'REVIEWING BY STAFF IC', N'Your claim is currently being reviewed by your staff in charged.')
+INSERT INTO [dbo].[Claim_Status_Codes] ([Status_ID], [Desc], [Long_Desc]) VALUES (3, N'REVIEWING BY SIT ADMIN', N'Your claim is currently being reviewed by SIT administrative staff.')
+INSERT INTO [dbo].[Claim_Status_Codes] ([Status_ID], [Desc], [Long_Desc]) VALUES (4, N'SENT TO IMDA FOR APPROVAL', N'Your claim has been sent to IMDA for approval.')
+INSERT INTO [dbo].[Claim_Status_Codes] ([Status_ID], [Desc], [Long_Desc]) VALUES (5, N'PROCESSING CLAIM BY SIT ADMIN', N'Your claim is currently being processed by SIT. You should be receiving your claim in 2-3 weeks time. Please check your Giro account. If you do not have GIRO account, a cheque will be mailed to your residential address.')

@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[Staff] ([SID], [Name], [HP], [Email]) VALUES (N'ABLTW     ', N'ALBERT TW', 88889999, N'ALBERT_TW@NYP.EDU.SG')
+INSERT INTO [dbo].[Staff] ([SID], [Name], [HP], [Email]) VALUES (N'AISHA     ', N'NUR AISHA', 99999991, N'NUR_AISHA@NYP.EDU.SG')
+INSERT INTO [dbo].[Staff] ([SID], [Name], [HP], [Email]) VALUES (N'JANC      ', N'JAN CHANG ', 88888881, N'JAN_CHANG@NYP.EDU.SG')
+INSERT INTO [dbo].[Staff] ([SID], [Name], [HP], [Email]) VALUES (N'LEEPH     ', N'LEE PENG HUI', 99999999, N'LEE_PENG_HUI@NYP.EDU.SG')
+INSERT INTO [dbo].[Staff] ([SID], [Name], [HP], [Email]) VALUES (N'TANLL     ', N'TAN LIAN LIAN', 88888888, N'TAN_LIAN_LIAN@NYP.EDU.SG')

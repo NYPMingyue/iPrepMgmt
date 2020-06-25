@@ -1,0 +1,6 @@
+INSERT INTO [dbo].[Programme_Subcode] ([ID], [Desc]) VALUES (N'O1', N'OEP TRIP')
+INSERT INTO [dbo].[Programme_Subcode] ([ID], [Desc]) VALUES (N'O2', N'OEP OITP')
+INSERT INTO [dbo].[Programme_Subcode] ([ID], [Desc]) VALUES (N'O3 ', N'OITP')
+INSERT INTO [dbo].[Programme_Subcode] ([ID], [Desc]) VALUES (N'C1', N'COURSE ONLY')
+INSERT INTO [dbo].[Programme_Subcode] ([ID], [Desc]) VALUES (N'C2', N'COURSE WITH CERTIFICATION')
+INSERT INTO [dbo].[Programme_Subcode] ([ID], [Desc]) VALUES (N'C3', N'CERTIFICATION ONLY')

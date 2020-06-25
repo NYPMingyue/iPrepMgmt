@@ -1,0 +1,2 @@
+INSERT INTO [dbo].[Student] ([SID], [Name], [HP], [Email], [PEM], [Diploma], [PIN]) VALUES (N'189097X', N'JASON LEE                                         ', 89112347, N'189097X@MYMAIL.NYP.EDU.SG', N'BI1801', N'DBI       ', N'12345')
+INSERT INTO [dbo].[Student] ([SID], [Name], [HP], [Email], [PEM], [Diploma], [PIN]) VALUES (N'194567C', N'ASHRAF                                            ', 98111110, N'194567C@MYMAIL.NYP.EDU.SG', N'FI1903', N'DFI       ', NULL)

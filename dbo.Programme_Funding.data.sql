@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[Programme_Funding] ([PID], [FAID], [Staff_In_Charge], [Comments], [Sub_Prog_Code], [ClaimPerPax], [NoOfPax]) VALUES (1, 1, N'TANLL     ', N'For Certified Ethical Hacker (CEH)', N'C2        ', 500, 20)
+INSERT INTO [dbo].[Programme_Funding] ([PID], [FAID], [Staff_In_Charge], [Comments], [Sub_Prog_Code], [ClaimPerPax], [NoOfPax]) VALUES (2, 2, N'AISHA     ', N'7D Vietnam Study Trip', N'O1        ', 500, 30)
+INSERT INTO [dbo].[Programme_Funding] ([PID], [FAID], [Staff_In_Charge], [Comments], [Sub_Prog_Code], [ClaimPerPax], [NoOfPax]) VALUES (3, 1, N'LEEPH     ', N'For AWS Certification', N'C3        ', 50, 50)
+INSERT INTO [dbo].[Programme_Funding] ([PID], [FAID], [Staff_In_Charge], [Comments], [Sub_Prog_Code], [ClaimPerPax], [NoOfPax]) VALUES (4, 1, N'JANC      ', N'For Accounting Analytics', N'C1        ', 100, 30)
+INSERT INTO [dbo].[Programme_Funding] ([PID], [FAID], [Staff_In_Charge], [Comments], [Sub_Prog_Code], [ClaimPerPax], [NoOfPax]) VALUES (5, 3, N'ALBERTW   ', N'OITP NEW ZEALAND', N'O3        ', 1200, 2)
